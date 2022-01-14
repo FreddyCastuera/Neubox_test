@@ -1,0 +1,20 @@
+{
+  "name": "Neubox_test",
+  "version": "1.0.0",
+  "description": "test from Neubox",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FreddyCastuera/Neubox_test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FreddyCastuera/Neubox_test/issues"
+  },
+  "homepage": "https://github.com/FreddyCastuera/Neubox_test#readme"
+}
